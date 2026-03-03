@@ -1,7 +1,9 @@
 ## Hello! I'm Nikhil Marathe 👋
 - 🔭 I’m currently working on Machine Learning projects and learning Gen-AI
 - 🌱 I’m currently learning Gen-AI and build chatbots using it.
-
+- 👯 I’m happy to collaborate on Machine Learning, Power-BI projects.
+- 📫 How to reach me: marathenikhil2409@gmail.com
+- I like to keep things simple and working.
 <!--
 **TheNikhilMarathe/TheNikhilMarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
