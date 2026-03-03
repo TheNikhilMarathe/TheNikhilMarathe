@@ -1,4 +1,6 @@
 ## Hello! I'm Nikhil Marathe 👋
+- 🔭 I’m currently working on Machine Learning projects and learning Gen-AI
+- 🌱 I’m currently learning Gen-AI and build chatbots using it.
 
 <!--
 **TheNikhilMarathe/TheNikhilMarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
