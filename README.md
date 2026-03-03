@@ -4,6 +4,9 @@
 - 👯 I’m happy to collaborate on Machine Learning, Power-BI projects.
 - 📫 How to reach me: marathenikhil2409@gmail.com
 - I like to keep things simple and working.
+
+  ## Skills:
+  - Power-BI, Machine Learning(Supervised,Unsupervised,ANN), SQL, Excel(lookups & Pivot tables),Gen-AI.
 <!--
 **TheNikhilMarathe/TheNikhilMarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
