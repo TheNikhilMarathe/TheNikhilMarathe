@@ -7,7 +7,8 @@
 
   ## Skills:
   - Power-BI.
-  - Machine Learning(Supervised,Unsupervised,ANN).
+  - Machine Learning (Supervised,Unsupervised,ANN).
+  - Python libraries and performing EDA using them.
   - SQL.
   - Excel(lookups & Pivot tables).
   - Gen-AI.
