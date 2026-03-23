@@ -1,16 +1,16 @@
 ## Hello! I'm Nikhil Marathe 👋
-- 🔭 I’m currently working on Machine Learning projects and learning Gen-AI
+- 🔭 I’m currently working on Machine Learning and Gen-AI projects.
 - 🌱 I’m currently learning Gen-AI and build chatbots using it.
-- 👯 I’m happy to collaborate on Machine Learning, Power-BI projects.
+- 👯 I’m happy to collaborate on Data Science projects.
 - 📫 How to reach me: marathenikhil2409@gmail.com
 - I like to keep things simple and working.
 
   ## Skills:
-  - Power-BI.
   - Machine Learning (Supervised,Unsupervised,ANN).
-  - Python libraries and performing EDA using them.
+  - Python for Data Science (Numpy, Pandas,Scikit-learn).
+  - Microsoft Power-BI.
   - SQL.
-  - Excel(lookups & Pivot tables).
+  - Excel(Lookups,Pivot tables).
   - Gen-AI.
 <!--
 **TheNikhilMarathe/TheNikhilMarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
