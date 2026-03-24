@@ -53,6 +53,14 @@ Machine Learning | NLP | Deep Learning (ANN) | Data Cleaning | EDA | Model Evalu
 
 ---
 
+### Restaurant reviews classification:-
+
+* Built NLP-based ML model to classify restaurant reviews as positive/negative.
+* Implemented text preprocessing and feature extraction using Bag-of-Words.
+* Compared diffrent models and achieved upto ~84% test and 91% overall accuracy for Random Forest model.
+
+---
+
 ### 💰 Loan Default Analysis (Power BI Dashboard)
 
 * Designed interactive Power BI dashboards.
