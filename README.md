@@ -78,7 +78,7 @@ Machine Learning | Deep Learning (ANN) | Data Cleaning | EDA | Feature Engineeri
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your Link]
+* LinkedIn: https://www.linkedin.com/in/nikhilmarathe2409/
 * GitHub: [Your Link]
 * Email: [Your Email]
 
