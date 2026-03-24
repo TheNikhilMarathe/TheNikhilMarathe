@@ -25,7 +25,7 @@ Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow)
 SQL | Power BI | Excel
 
 **Core Skills:**
-Machine Learning | Deep Learning (ANN) | Data Cleaning | EDA | Feature Engineering | Model Evaluation
+Machine Learning | NLP | Deep Learning (ANN) | Data Cleaning | EDA | Model Evaluation
 
 ---
 
