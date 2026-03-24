@@ -1,28 +1,88 @@
-## Hello! I'm Nikhil Marathe 👋
-- 🔭 I’m currently working on Machine Learning and Gen-AI projects.
-- 🌱 I’m currently learning Gen-AI and build chatbots using it.
-- 👯 I’m happy to collaborate on Data Science projects.
-- 📫 How to reach me: marathenikhil2409@gmail.com
-- I like to keep things simple and working.
+# 👋 Hi, I'm Nikhil Marathe
 
-  ## Skills:
-  - Machine Learning (Supervised,Unsupervised,ANN).
-  - Python for Data Science (Numpy, Pandas,Scikit-learn).
-  - Microsoft Power-BI.
-  - SQL.
-  - Excel(Lookups,Pivot tables).
-  - Gen-AI.
-<!--
-**TheNikhilMarathe/TheNikhilMarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Analyst | Machine Learning Engineer
+📍 Passionate about solving real-world problems using data 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Machine Learning projects and learning Gen-AI
-- 🌱 I’m currently learning Gen-AI and build chatbots using it.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I am a Data Analyst & Machine Learning Engineer with hands-on experience in building predictive models, data-driven dashboards, and extracting actionable insights from complex datasets which help make data driven decisions.
+
+🔍 I specialize in:
+
+* Building effficient Machine Learning models & Artificial Neural Networks
+* Data Analysis & Visualization using Power BI
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Libraries:**
+Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow)
+
+**Data & BI Tools:**
+SQL | Power BI | Excel
+
+**Core Skills:**
+Machine Learning | Deep Learning (ANN) | Data Cleaning | EDA | Feature Engineering | Model Evaluation
+
+---
+
+## 📊 Featured Projects
+
+### ✈️ Flight Price Prediction
+
+* Built a regression model to predict flight ticket prices
+* Performed feature engineering on time-series & categorical data
+* Achieved optimized model performance using ML algorithms
+
+---
+
+### 🧠 Customer Segmentation (Clustering)
+
+* Used K-Means clustering to identify optimum number of bank customer segments.
+* Helped understand their behavior for targeted ad marketing campaign.
+
+---
+
+### 👨‍💼 Employee Attrition Prediction
+
+* Developed classification models to predict employee churn.
+* Identified key factors affecting attrition.
+
+---
+
+### 💰 Loan Default Analysis (Power BI Dashboard)
+
+* Designed interactive Power BI dashboards.
+* Analyzed financial risk metrics & default patterns based on customer credit scores and income.
+* Delivered insights for risk mitigation strategies.
+
+---
+
+### 🏠 Housing Price Trend Analysis
+
+* Performed exploratory data analysis on housing datasets to identify key factors affecting house prices.
+* Identified trends and influencing factors.
+
+---
+
+## 📈 What Makes Me Different
+
+✔ I focus on **business problems, not just models**
+✔ I combine **analytics + machine learning + visualization**
+✔ I present insights in a **clear and actionable way**
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [Your Link]
+* GitHub: [Your Link]
+* Email: [Your Email]
+
+---
+
+⭐ *Always open to Data Science, ML, and Analytics opportunities*
+
