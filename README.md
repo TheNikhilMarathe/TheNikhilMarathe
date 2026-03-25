@@ -11,9 +11,7 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ---
 
-## 🛠️ Tech Stack
-
-## 🚀 Skills
+## 🛠️ Tech Stack & Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -59,7 +57,7 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ---
 
-### Restaurant reviews classification:-
+### 🍴 Restaurant reviews classification
 
 * Built NLP-based ML model to classify restaurant reviews as positive/negative.
 * Implemented text preprocessing and feature extraction using Bag-of-Words.
