@@ -9,11 +9,6 @@
 
 I am a Data Analyst & Machine Learning Engineer with hands-on experience in building predictive models, data-driven dashboards, and extracting actionable insights from complex datasets which help make data driven decisions.
 
-🔍 I specialize in:
-
-* Building effficient Machine Learning models & Artificial Neural Networks
-* Data Analysis & Visualization using Power BI
-
 ---
 
 ## 🛠️ Tech Stack
