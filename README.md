@@ -14,7 +14,7 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 ## 🛠️ Tech Stack
 
 **Languages & Libraries:**
-Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow)
+Python (Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow)
 
 **Data & BI Tools:**
 SQL | Power BI | Excel
