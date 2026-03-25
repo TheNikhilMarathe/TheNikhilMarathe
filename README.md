@@ -13,14 +13,25 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ## 🛠️ Tech Stack
 
-**Languages & Libraries:**
-Python (Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow)
+## 🚀 Skills
 
-**Data & BI Tools:**
-SQL | Power BI | Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Core Skills:**
-Machine Learning | NLP | Deep Learning (ANN) | Data Cleaning | EDA | Model Evaluation
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A192F?style=flat)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![ANN](https://img.shields.io/badge/ANN-FF6F61?style=flat)
+![EDA](https://img.shields.io/badge/EDA-6A1B9A?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-00897B?style=flat)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-3949AB?style=flat)
 
 ---
 
