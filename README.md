@@ -37,10 +37,10 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ### ✈️ Flight Price Prediction
 
-* Developed an end-to-end flight price prediction model using real-world airline data, applying advanced feature engineering, EDA, and          regression techniques.
-* Compared models like Random Forest, Extra Trees, and CatBoost
-* Performed hyperparameter tuning (RandomizedSearchCV) to optimize performance
-* Achieved R² > 0.80 on test data, with strong performance across MAE & MSE metrics
+•	Built and deployed a flight price prediction system using ML model Catboost regressor with hyperparameter tuning (Randomized search CV) to achieve accuracy of 84% on test and real-world data and transformed the trained model into a live, user-interactive web application.
+•	Performed EDA using Y-data profiling and feature engineered various parameters like date-time, duration, stops, airline company to built a robust model with R² > 0.80 on test data and strong performance across MAE & MSE metrics.
+•	Deployed the model as a live web app enabling real-time predictions based on user inputs.
+
 ### Link to Flight Price Prediction App : https://flight-price-prediction-p1w6.onrender.com/predict
 
 ---
