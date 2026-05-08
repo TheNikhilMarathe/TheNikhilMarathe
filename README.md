@@ -46,7 +46,7 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ### 🧠 Customer Segmentation (Clustering)
 
-*	Implemented K-means clustering to group bank customers into optimal clusters using factors such as their balance, purchases, purchase frequency, credit limit,       payments to run a targeted ad-marketing campaign.
+* Implemented K-means clustering to group bank customers into optimal clusters using factors such as their balance, purchases, purchase frequency, credit limit,       payments to run a targeted ad-marketing campaign.
 *	Performed data cleaning, outlier treatment, and feature scaling improving clustering efficiency and reducing feature bias by 30%. 
 *	Delivered actionable insights that can potentially increase marketing campaign ROI by 20–25% and improve customer retention by 15–20% through personalized           engagement.
 
@@ -55,8 +55,9 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ### 👨‍💼 Employee Attrition Prediction
 
-* Developed classification models to predict employee churn.
-* Identified key factors affecting attrition.
+* Created an employee attrition prediction model using SVM classifier to identify high risk employees with an accuracy of 86% for a HR-proactive decision making.  
+*	Performed data preprocessing on dataset of 1470 employees across 30 different critical factors like job satisfaction, work-life balance, tenure, salary affecting    their attrition so as to build a robust model.
+
 
 ---
 
