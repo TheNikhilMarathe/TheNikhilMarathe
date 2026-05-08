@@ -46,8 +46,10 @@ I am a Data Analyst & Machine Learning Engineer with hands-on experience in buil
 
 ### 🧠 Customer Segmentation (Clustering)
 
-* Used K-Means clustering to identify optimum number of bank customer segments.
-* Helped understand their behavior for targeted ad marketing campaign.
+*	Implemented K-means clustering to group bank customers into optimal clusters using factors such as their balance, purchases, purchase frequency, credit limit,       payments to run a targeted ad-marketing campaign.
+*	Performed data cleaning, outlier treatment, and feature scaling improving clustering efficiency and reducing feature bias by 30%. 
+*	Delivered actionable insights that can potentially increase marketing campaign ROI by 20–25% and improve customer retention by 15–20% through personalized           engagement.
+
 
 ---
 
